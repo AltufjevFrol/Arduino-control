@@ -1,0 +1,16 @@
+{
+	"name": "switcer",
+	"version": "1.0.0",
+	"dependencies": {
+		"mysql2": "^2.2.5",
+		"serialport": "^9.0.4",
+		"ws": "^7.4.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.6"
+	},
+	"scripts": {
+		"devst": "nodemon server.js",
+		"devstWS": "nodemon serverWS.js"
+	}
+}

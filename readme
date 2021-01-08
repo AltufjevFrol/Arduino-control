@@ -1,0 +1,6 @@
+1. Установить Node JS. https://nodejs.org/en/
+2. Установит SQL https://dev.mysql.com/downloads/mysql/
+3. Для SQL server настроить пользователя Frol a1r9t8e4m
+4. Определить на каком COM порту Arduino  и исправить в файле serverWS.js
+5. Запустить из каталога "npm install"
+6. Запустить startWS.bat
